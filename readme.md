@@ -1,0 +1,5 @@
+# Persian Wikipedia Big data Analysis using Spark
+
+In a little side project that I did, I dug deep into the Persian Wikipedia using the awesome Spark framework. My main goal was to explore RDD (Resilient Distributed Datasets) and Spark Dataframe in PySpark. In this super interesting project, I carefully did a bunch of preprocessing steps on the data, like getting rid of stop words and symbols, transforming words to their base form (lemmatization), and reducing words to their root form (stemming).
+
+After the careful data preprocessing phase, I did a bunch of cool analyses on the data. This included finding the most common words, looking at unique 3-letter words, and even making cool plots and charts to visualize their distribution. To make my analysis even better, I used this really powerful technique called TF-IDF (Term Frequency-Inverse Document Frequency), which helped me search for the top five articles related to different sample queries.
